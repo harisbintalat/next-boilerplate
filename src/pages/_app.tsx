@@ -1,5 +1,5 @@
 import { AppPropsWithLayout } from '@customTypes/layouts'
-import '@/styles/globals.css'
+import '@assets/styles/global.css'
 
 
 export default function MyApp({ Component, pageProps }: AppPropsWithLayout) {
